@@ -1,0 +1,5 @@
+data/raw/
+data/processed/aml_transactions_enriched.parquet
+__pycache__/
+*.ipynb_checkpoints/
+.env
